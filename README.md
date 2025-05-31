@@ -1,4 +1,4 @@
-# Ka daro programa:  
+# Ką daro programa:  
 - analizuoja tekstinį failą ir išveda (į atskirus tekstinius failus):  
    - žodžius ir skaičių, kiek kartų jie pasikartojo ir kokiose tekstinio failo eilutėse
    - faile esančius url.
