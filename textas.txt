@@ -1,0 +1,545 @@
+VikipedijaLaisvoji enciklopedija
+Ieškoti Vikipedijoje
+Paieška
+Parama
+Sukurti paskyrą
+Prisijungti
+
+[paslėpti]
+Šios savaitės iniciatyva: Tikėjimas. Kviečiame prisidėti!
+
+Turinys paslėpti
+Pradžia
+Drakono išvaizda ir mitologija
+
+Europa ir Amerika
+Centrinė ir Rytų Azija
+Drakonas astrologijoje
+Šaltiniai
+Drakonas
+https://www.vu.lt/
+www.wikipedia.org
+vu.lt
+https://emokymai.vu.lt/
+Papildoma užduotis. std::string konteinerio, o taip pat ir asociatyvių konteinerių naudojimas
+std::string konteinerio, o taip pat ir asociatyvių konteinerių naudojimas
+Motyvacija
+Iki šiol dažniausiai naudojome sekos/nuoseklaus tipo (angl. sequence containers) konteinerius, t.y. juose išlaikoma tokia tvarka, kokia mes tuos elementus sudėjome (pvz. naudodami insert ar push_back()) į konteinerius. Tačiau tam tikroms užduotims kito tipo konteineriai yra labiau tinkami. Pavyzdžiui, norėdami įsitikinti ar tam tikras skaičius (pvz. 100) egzistuoja konteineryje, naudojant sekos konteinerius iš esmės turime du pasirinkimus:
+
+kiekvieno konteinerio elementą lyginti su 100 tol kol surasime, kad toks elementas iš tiesų egzistuoja, arba patikrinsime visus elementus ir įsitikinsime, kad toks elementas neegzistuoja;
+surūšiuoti konteinerį naudojant rūšiavimo algoritmą ir tuomet naudojant kokią gudresnę strategiją greitai patikrinti, ar toks elementas egzistuoja konteineryje. Tačiau tokiu atveju įterpus naujus elementus privalome konteinerį iš naujo surūšiuoti.
+Akivaizdu, kad abiems atvejams realizacija veiks gana lėtai ir neefektyviai.
+
+Ši užduotis skirta patyrinėti, kad tokio tipo užduotims asociatyvūs konteineriai, t.y. tokie, kurie elementų į konteinerį įrašymo metu juos "surūšiuoja" yra labiau tinkami ir efektyvesni lyginant su sekos konteineriais.
+
+Užduoties formuluotė
+
+Suskaičiuokite, kiek kartų kiekvienas skirtingas žodis pasikartoja Jūsų tekste. Tekstą galite paimti iš bet kur, pvz.: Vikipediją straipsnį apie Vilnių (Geriau kad būtu kitoks tekstas, ne mažiau 1000 žodžių, nereikia traukti straipsnio programiškai, užtenka nukopijuoti ir įkelti į apdorojamą failą). Tuomet realizacijos output'e (išoriniame faile) išveskite skirtingus žodžius (kableliai, taškai ir kiti skyrybos ženklai nėra žodžiu dalis!), kurie pasikartojo dažniau negu 1 kartą, o taip pat ir count'erį, nurodantį kiek kartų konkretus žodis pasikartojo.
+Sukurkite failą su cross-reference tipo lentelę kurioje būtų nurodyta, kurioje teksto vietoje (kurioje(-iose) teksto eilutėse) kiekvienas iš daugiau negu vieną kartą pasikartojantis žodis buvo paminėtas.
+URL adresų suradimas Jūsų tekste. Kaip ir pirmos užduoties atveju, tekstą galite paimti iš bet kur, tačiau būtina, kad tame tekste būtų bent keli URL'ai, pateikti "pilnu" https://www.vu.lt/, https://vu.lt/ ar "sutrumpintu" pavidalu: www.vu.lt, vu.lt. Jūsų tikslas, iš to teksto išrinkti visus šiuos URL'us ir grąžei išvesti į failą!
+Repozitorija turi būti parengta pagal visus ankstesnių darbų galutinėms versijoms galiojančius reikalavimus.
+Papildoma užduotis iš asociatyvių konteinerių ir/ar std::string tematikos bus paskirta gynimo metu "individualiai"! 
+Vertinimo būsena
+Įkelto darbo būsena	Jokių pateikimų dar nepateikta
+Vertinimo būsena	Neįvertinta
+Liko laiko	Liko 10 valandos 17 min
+Paskutinį kartą keista	-
+Pateikimo komentarai	
+KomentaraiKomentarai (0)
+Informacija
+
+Internete: https://pagalba.vu.lt
+Pagalbos el. paštas: emokymai(eta)vu.lt
+Telefonai: 05 236 6283, 05 219 3287
+
+Naudingos nuorodos
+
+VU eID
+VU ITPC
+Elekroninių išteklių užsakymo formos
+MS Teams pagalbos gru
+https://lt.wikipedia.org/wiki/Azija
+
+Straipsnis
+Aptarimas
+Skaityti
+Keisti
+Keisti vikitekstą
+Istorija
+
+Įrankiai
+Išvaizda paslėpti
+Tekstas
+
+Mažas
+
+Įprastinis
+
+Didelis
+Plotis
+
+Įprastinis
+
+Platus
+Spalva (beta)
+
+Automatinis
+
+Šviesus
+
+Tamsus
+ Kitos reikšmės – Drakonas (reikšmės).
+  	Šiam straipsniui ar jo daliai reikia daugiau nuorodų į patikimus šaltinius.
+Jūs galite padėti Vikipedijai įrašydami tinkamas išnašas ar nuorodas į patikimus šaltinius.
+
+Drakonas kinų mene
+Drakonas – sparnuotas skraidantis slibinas, kurio išvaizdoje yra keleto gyvūnų bruožų, dažniausiai roplio (gyvatės, driežo, krokodilo) galva (ar kelios galvos) ir kūnas su paukščio sparnais. Kartais prie šio kombinuoto kūno pridedama ir kitų gyvūnų (žuvies, panteros, liūto, ožio, šuns, vilko ir kt.) kūno dalių. Drakono mitai ir vaizdiniai paplitę įvairiuose pasaulio kraštuose.[1]
+
+Drakono išvaizda ir mitologija
+Europa ir Amerika
+Charakteringiausias šiuo metu paplitęs drakono įvaizdis – roplys, dažniausiai turintis vieną arba kelias galvas, galintis alsuoti ir spjaudytis ugnimi. Jo kūnas padengtas žvynais, o linija nuo galvos iki uodegos apaugusi trikampio formos sustorėjimais – ataugomis. Drakonas dažniausiai turi sparnus ir skraido. Tačiau neretai drakonams priskiriami mitologijų gyvatiškos formos milžiniški padarai, kurie neskraido, tačiau turi roplio bruožų.
+
+Būtent taip drakonai vaizduojami meniniuose filmuose, knygose, paveiksluose. Šiam įvaizdžiui formuotis daugiausiai įtakos turėjo Viduramžiais paplitęs Šv. Jurgio mitas, vaizduotas kronikose, religiniuose paveiksluose. Anot mito, Šv. Jurgis nugalėjęs drakonu (slibinu) pasivertusį Šėtoną.
+
+Centrinė ir Rytų Azija
+Centrinėje ir Rytų Azijoje, priešingai nei Vakaruose, drakonas nelaikytas pikta lemiančiu padaru. Priešingai, jis laikytas taurumo, jėgos ir išminties simboliu. Tad dažniausiai vaizduojamas kaip viengalvis roplys, panašiais į krokodilo nasrais, nuo kurių nutįsę ūsai. Daugumoje paveikslų drakonai vaizduojami susirangę į spiralę, su mažyčiais sparnais arba visai be jų. Galūnės (kojos ar rankos) išaugusios šonuose. Niekada nevaizduojami stovintys ar vaikštantys žeme drakonai. Dar ir šiandien drakonas laikomas stiprybės, vienybės ir jėgos ženklu. Drakonas taip pat laikytas Kinijos imperatoriaus ženklu.
+
+Drakonas astrologijoje
+
+Zodiako drakonas
+Kinų astrologijoje drakonas yra vienas iš zodiako ženklų. Anot astrologinių šaltinių, šio ženklo metais gimę žmonės neva esą stiprūs, ištvermingi, jų gyvenimas būsiąs sėkmingas.
+
+
+
+Šaltiniai
+ Mitologijos enciklopedija, 1 t. Vaga, Vilnius, 1997.
+Kategorijos: Mitinės būtybėsKrikščionybės mitologija
+Šis puslapis paskutinį kartą keistas 5 lapkričio 2024 22:02.
+Tekstas pateikiamas pagal Creative Commons Attribution/Share-Alike Licenciją; gali būti taikomos papildomos sąlygos. Detaliau – Terms of Use .
+Privatumo politikaApie VikipedijąJokių garantijųElgesio kodeksasKūrėjaiStatistikaSlapukų politikaMobili peržiūra
+Wikimedia Foundation
+Powered by MediaWiki
+
+Drakonas
+
+122 kalbų
+Pridėti temą
+
+
+VikipedijaLaisvoji enciklopedija
+Ieškoti Vikipedijoje
+Paieška
+Parama
+Sukurti paskyrą
+Prisijungti
+
+[paslėpti]
+Šios savaitės iniciatyva: Tikėjimas. Kviečiame prisidėti!
+
+Turinys paslėpti
+Pradžia
+Samprata
+Geografija
+
+Padėtis
+Krantai ir salos
+Paviršius
+Geologinė sandara
+Naudingosios iškasenos
+Klimatas
+Gyvoji gamta
+Vidaus vandenys
+Gyventojai
+
+Etninė sudėtis
+Kalbos
+Religija
+Šalys ir regionai
+Pastabos
+Šaltiniai
+Nuorodos
+Azija
+
+Straipsnis
+Aptarimas
+Skaityti
+Keisti
+Keisti vikitekstą
+Istorija
+
+Įrankiai
+Išvaizda paslėpti
+Tekstas
+
+Mažas
+
+Įprastinis
+
+Didelis
+Plotis
+
+Įprastinis
+
+Platus
+Spalva (beta)
+
+Automatinis
+
+Šviesus
+
+Tamsus
+Šis straipsnis įtrauktas į Vertingų straipsnių kategoriją
+ Kitos reikšmės – Azija (reikšmės).
+Azija
+
+Plotas	44 579 000 km²[1]
+Gyventojų	4 560 667 108 (2018)[2][3]
+Tankumas	~100 žm./km²
+Valstybės	49
+BVP (PPP)	65,44 trln. JAV dol. (2019)[4]
+BVP (nominalus)	31,58 trln. JAV dol. (2019)[4]
+BVP gyventojui	7350 JAV dol.[4]
+Kalbos	kinų
+hindi
+japonų
+arabų
+bengalų
+indoneziečių ir kt.
+Laiko juostos	nuo UTC+2 iki UTC+12
+Azija – didžiausia pasaulio dalis (~33 % viso Žemės paviršiaus be Antarktidos[5]), čia gyvena apie 60 % pasaulio gyventojų. Su Europa sudaro Eurazijos žemyną. Riba tarp Azijos ir Europos žemynų nėra vienareikšmiškai apibrėžta. Nuo Amerikos Aziją skiria Beringo sąsiauris. Nuo Afrikos – Sueco kanalas.
+
+Samprata
+Kaip ir Europos, Azijos samprata kultūrinė, o ne geografinė, todėl riba tarp Azijos ir Europos neaiški. Žodis „Azija“ (sen. gr. Ἀσία, Ἀσίη) Senovės Graikijoje reiškė mitinę okeanidę. Geografine prasme šį žodį pirmąsyk žinomuose šaltiniuose pavartojo Herodotas. Šiuo žodžiu jis nusakė Anatoliją (dab. Mažąją Aziją) ir Persiją. Homeras „Iliadoje“ taip pat mini du frygus vardu Asijus (sen. gr. Ἄσιος), taip pat Lydijoje minima šlapynė pavadinimu sen. gr. ασιος. Strabonas savo „Geografijoje“ mini, kad riba tarp Azijos ir Europos eina Dono upe.
+
+
+Azija Ptolemėjaus žemėlapyje
+Vietovardis kildinamas iš asirų kalbos žodžio asu, reiškiančio „rytai“. Pasak kitos versijos, vietiniai gyventojai taip vadinę Efeso lygumas, kurias graikai ir romėnai pirmiausiai ir pradėję vadinti Azija.[6] Azijos pavadinimą bandyta sieti ir su hetitų vietovardžiu Assuwa (taip vadinta konfederacija)[7] bei akadų žodžiu (w)aṣû(m) („išeiti, pakilti“). Dabartinė Azijos samprata atsirado tik po didžiųjų geografinių atradimų, kai šis graikų žodis pritaikytas ne tik Vakarų Azijai, bet visai pasaulio daliai. XVIII a. buvo nustatyta apytikslė Europos ir Azijos riba. Kai kurios geografiškai Azijoje esančios valstybės (pvz., Izraelis, Užkaukazės šalys, Turkija) save kultūriškai sieja su Europa.
+
+Europocentristiniu požiūriu Azija tapatinta su Orientu – egzotiškais, „barbariškais“ kraštais, į kuriuos buvo linkstama projektuoti visas europietiškai sąmonei svetimas blogybes (žr. orientalizmas).
+
+Geografija
+
+Azija palydovinėje nuotraukoje
+Padėtis
+Aziją iš trijų pusių supa vandenynai – šiaurėje Arkties, rytuose – Ramusis, pietuose – Indijos vandenynas, pietvakariuose – Atlanto vandenyno jūros (Viduržemio, Egėjo, Marmuro, Juodoji ir Azovo). 92 km pločio Beringo sąsiauris skiria Aziją nuo Amerikos. Sueco sąsmauka jungia Aziją su Afrika (riba tarp jų eina Sueco kanalu). Vakaruose Azija ribojasi su Europa, su kuria sudaro Eurazijos žemyną. Sutartinė riba tarp Azijos ir Europos eina Uralo kalnų rytinėje papėdėje, Embos upe ir Kumos–Manyčiaus įduba, šiauriniu Kaukazo kalnų pakraščiu (Kaukazas priskiriamas Azijai). Pietryčiuose Malajų salynas Aziją skiria nuo Australijos (riba vedama per Timoro jūrą, Arafuros jūrą bei Dampiro sąsiaurį, tarp Malajų salyno ir Naujosios Gvinėjos).[5]
+
+Azijos plotas – 43,4 mln. km²[8] (kitais apskaičiavimais – 44,4 mln. km²[5], 44,57 mln. km²[9] ar 44,61 mln. km²[10]).
+
+Tolimiausi Azijos sausumos taškai yra:
+
+šiaurėje – Čeliuskino kyšulys (75° 43′ š. pl.)
+pietuose – Piajaus kyšulys (1° 16′ š. pl.)
+rytuose – Dežniovo kyšulys (169° 40′ v. ilg.)
+vakaruose – Babo kyšulys (26° r. ilg.).
+Dėl neaiškių ribų bei geografinės projekcijos įnešamų paklaidų nustatyti Azijos geografinį centrą tiksliai neįmanoma. Yra keletas vietovių, kurios pagal vienokius ar kitokius apskaičiavimus nurodomos kaip šios pasaulio dalies centras: Kyzylas arba Saldamas (Tuva, Rusija),[11] Urumčio apylinkės (Sindziangas, Kinija).[12]
+
+Praktiškai visa Azija, išskyrus Malajų salyną, išsitenka šiaurės pusrutulyje.
+
+Krantai ir salos
+Azijos krantų ilgis ~62 800 km. Apie 8 mln. km² Azijos ploto tenka pusiasaliams ir ~2 mln. km² – saloms. Plačiausioje vietoje (iš šiaurės rytų į pietryčius) Azija yra 11 455 km pločio. Gurbantiungiuto dykumoje Sindziange (šiaurės vakarų Kinija) yra toliausiai nuo jūrų nutolusi ne tik Azijos, bet ir viso pasaulio vieta.[13]
+
+Prie Azijos šiaurinių krantų yra Karos jūra, Laptevų jūra, Rytų Sibiro jūra ir Čiukčių jūra (Arkties vandenynas), prie rytinių – Beringo jūra, Ochotsko jūra, Japonijos jūra, Geltonoji jūra, Rytų Kinijos jūra, Pietų Kinijos jūra (Ramusis vandenynas); pietryčiuose tarp Malajų salyno ir Filipinų salų – Sulu jūra, Sulavesio jūra, Molukų jūra, Seramo jūra, Bandos jūra, Floreso jūra ir Javos jūra. Prie Azijos pietinių krantų yra Andamanų jūra, Bengalijos įlanka, Arabijos jūra (Indijos vandenynas).
+
+Didžiausi pusiasaliai: Jamalo, Taimyro, Čiukčių, Kamčiatkos, Korėjos, Indokinijos ir Malakos, Indostano, Arabijos, Mažosios Azijos.
+
+
+Khumbu slėnis Himalajuose (Nepalas)
+
+Altajaus kraštovaizdžiai Rusijoje
+Salos sudaro ~7 % Azijos ploto (užima ~2 mln. km²).[8] Daugiausia stambių salų yra Pietryčių Azijoje. Didžiausios salos ir salynai:
+
+Arkties vandenyne: Šiaurės Žemė, Naujojo Sibiro salos, Vrangelio sala,
+Ramiajame vandenyne: Kurilai, Sachalinas, Japonijos salynas, Taivanas, Hainanas, Malajų salynas, Filipinai;
+Indijos vandenyne: Andamanų salos, Nikobarų salos, Šri Lanka.
+Taip pat geografiškai prie Azijos priskiriama Kipro sala Viduržemio jūroje.[5]
+
+Paviršius
+Absoliutinių aukščių atžvilgiu Azija – kontrastingiausia pasaulio dalis. Joje yra aukščiausia pasaulio viršūnė Džomolungma (8850 m, Himalajuose), giliausios įdubos, užlietos vandeniu, – Baikalo ežeras (gylis 1620 m), Negyvoji jūra (altitudė -400 m[10]) ir sausa Turfano įduba (-154 m). Krantai mažai išraižyti.
+
+Azijos paviršių sudaro daugiausia kalnai ir plokščiakalniai – jie užima ~3/4 viso žemyno ploto. Patys aukščiausi iš jų yra Pietų ir vidurio Azijoje. Azijos kalnai sudaro dvi dideles juostas. Pirmoji juosta prasideda nuo Mažosios Azijos, Armėnijos kalnynais ir eina į rytus per Irano kalnyną, Pamyrą, Karakorumą, Hindukušą Tibeto plokščiakalnį ir jį supančius Himalajų ir Kunluno kalnus, toliau pasuka į pietus ir pereina į Malajų salyną. Antroji juosta eina šiaurės rytų kryptimi per Tian Šanį, Pietų Sibiro kalnus (Altajų, Sajanus, Stano kalnyną), Džugdžūrą, Kolymos kalnyną iki Čiukčių pusiasalio. Šiaurės vakaruose prie jos šliejasi Vidurio Sibiro plokščiakalnis, atsišakoja Verchojansko ir Čerskio kalnagūbriai.[8]
+
+Tarp abiejų kalnų juostų plyti Centrinės Azijos aukštosios lygumos ir plokščiakalniai; iš rytų Centrinę Aziją supa Kinijos–Tibeto, Taichangšano, Janšano, Didžiojo Chingano kalnagūbriai. Azijos rytiniame pakraštyje yra Koriakų kalnynas, Sichote Alino, Mandžiūrijos–Korėjos, Nanlingo ir Anamo kalnai. Salų, juosiančių Ramiojo vandenyno pakraščio jūras, paviršius daugiausia kalnuotas. Indostano ir Arabijos pusiasalius užima Dekano ir Sirijos-Arabijos plokščiakalniai.
+
+
+Plynaukštės ir kalnai Tuvoje
+Azijos paviršiaus vidutinis aukštis 990 m; po Antarktidos – aukščiausia pasaulio dalis.[5] Himalajų–Karakorumo linijoje išlikę aukščiausi Azijos ir viso pasaulio kalnai – Džomolungma (8848 m), Čogoris (8611 m), Kančendžanga (8586 m), Lotsė (8516 m).
+
+~1/5 Azijos ploto užima lygumos (iki 200 m aukščio). Didžiausia lyguma – Vakarų Sibiro, pietuose pereinanti į Turano žemumą. Kitos lygumos užima jūrų pakrantes (Šiaurės Sibiro, Janos–Indigirkos, Kolymos, Didžioji Kinijos) arba priekalnių įdubas (Mesopotamijos, Indo–Gangos). Aukščiau iškilusios Centrinės ir Vidurinės Azijos tarpukalnių lygumos (Kašgarijos, Džungarijos, Gobio, Caidamo, Ferganos).[8]
+
+Žemiausia Azijos ir viso pasaulio sausumos vieta yra Negyvosios jūros pakrantė (jūros vandens paviršiaus altitudė –405 m).
+
+
+Ugnikalnių gausa Javos saloje (Indonezija): Bromas, Semeru, Batoko kūgis
+Pagrindiniai Azijos kalnų ir lygumų bruožai susiformavo mezozojinės ir alpinės kalnodaros metu. Dabartinis reljefas susidarė dėl senovinių denudacijos procesų, vertikaliųjų ir horizontaliųjų Žemės plutos judesių neogene ir kvartere, erozijos ir nuosėdų kaupimosi. Senoviniai denudaciniai paviršiai geriausiai išliko Azijos kalnų vidinėse dalyse, Dekano, Sirijos–Arabijos, Vidurinio Sibiro plokščiakalniuose. Stipriausi neogeno ir kvartero vertikalieji judesiai buvo Pamyre, Tibete, Himalajuose, Kopetdage, Ferganos kalnagūbryje, Tian Šanyje, Gisaro Alajuje. Intensyvi erozija daugelį senųjų plokščiakalnių labai suskaidė; gilių tarpeklių yra Pamyre, Tibete, Himalajuose, Kunlune, Vakarų Sajane, Stano kalnyne, Čerskio kalnagūbryje, Vakarų Azijos kalnynuose. Didelius Vidurinės ir Centrinės Azijos plotus (ypač Chvangchės baseine) dengia liosas. Yra vadinamų prastųjų žemių (bedlendų), dykumose – eolinių, klinčių ir gipso paplitimo vietose – karstinių reljefo formų. Šiaurės vakarų Azija į šiaurę nuo 60° š. pl. kvartere buvo apledėjusi. Į rytus nuo Chatangos upės buvo tik pavienių apledėjimo židinių. Kitose Azijos dalyse senovinių ledyninės kilmės reljefo formų yra aukštikalnėse. Didelę įtaką reljefo formavimuisi turėjo vulkanizmas. Senųjų lavų paviršių ir magmos klodų intarpų yra Indostane ir Vidurio Sibire.
+
+Dabar veikiančių ugnikalnių daugiausia Rytų Azijos salose (Fudzijama, Pektusanas, Asas ir kt.), Kamčiatkoje (Kronokų Sopka, Kliučių Sopka, Avačos Sopka), Filipinuose (Pinatubas, Majonas, Taalio ugnikalnis), Didžiosiose ir Mažosiose Sundos salose (Krakatau, Bromas, Semeru, Tambora ir daug kt.).
+
+Geologinė sandara
+
+Tian Šanis Kirgizijoje
+
+Jardangai Caidamo įduboje (Kinija)
+Žemės plutą Azijoje sudaro dvejopos struktūros: seniausi branduoliai – Sibiro plokštė (žemyno šiaurėje), Kinijos-Korėjos plokštė, Pietų Kinijos plokštė (rytuose), Indijos plokštė (pietuose), Arabijos plokštė (pietvakariuose; Afrikos platformos dalis) ir tarp jų ar atskirų jų dalių raukšlėtosios sritys. Sibiro plokštę iš pietų ir vakarų juosia vėlyvojo proterozojaus ir ankstyvojo paleozojaus konjunkcijos zonos. Panašaus amžiaus yra Pabaikalė, Sajanai, Jenisiejaus kalvagūbris, Kuznecko Alatau, Kalnų Altajus, didesnioji Mongolijos Altajaus, Changajaus ir Tanu Olos dalis. Kaledonidų yra vidurio Kazachstane, Tian Šanio šiaurėje, pietryčių ir centrinėje Kinijoje. Šių regionų nuogulos labai dislokuotos; gausu intruzijų. Tarp kaledonidų yra didelių tektoninių įdubų: Kuznecko, Minusinsko, Vidurio Tuvos; jose susiklosčiusios kontinentinės nuogulos dislokuotos t. y. devone, karbone ir perme. Hercinidai eina plačiu lanku: Taimyras, Uralas, Kazachstanas, Salairo kalvagūbris, Altajus, Tian Šanis, Kunlunas, Nanšanas. Vakarų Sibire ir Turgajaus įlinkyje juos dengia horizontalūs mezozojaus ir kainozojaus sluoksniai. Mezozojinio Žemės plutos metu iškilo Verchojansko, Kolymos, Čiukčių pusiasalio, Sichote Alino, Indokinijos pusiasalio kalnai. Jų raukšles kerta granitų intruzijos. Tarp jų yra paleozojinių masyvų. Altajuje, Tian Šanyje ir kitur yra iškilusių paleozoidų. Kainozojaus metus vyko Alpių ir Himalajų kalnų formavimasis.
+
+Azijos rytinis pakraštys yra tektoniškai aktyvus, nes įeina į Eurazijos ir Ramiojo vandenyno litosferos plokščių sandūros (subdukcijos) zoną. Šioje zonoje Ramiajame vandenyne yra gilių povandeninių lovių (Kurilų–Kamčiatkos, Japonijos, Bonino, Marianų, Filipinų), ties kuriais vandenyno litosferos plokštė stačiu kampu grimzta (7–8 cm per metus) ir panyra po Eurazijos žemyno kraštu iki 600 km gylio. Tai sukelia viso Azijos rytinio pakraščio seisminį ir vulkaninį aktyvumą. Dėl to žemyne formuojasi didžiulės vulkaninių kalnų grandinės, o vandenyne, netoli Azijos krantų – salų lankai. Panašūs tektoniniai ir kalnodaros procesai vyksta ir Azijos pietrytiniame pakraštyje, kur Indijos vandenyno plokštė panyra po Azijos pakraščiu palei Sundos povandeninį lovį. Žemyno viduje yra riftų; į pietus nuo Rytų Sibiro yra Baikalo riftų sistema (apie 2000 km), kurios didžiausioje įduboje telkšo Baikalas.[5]
+
+Naudingosios iškasenos
+Svarbiausios naudingosios iškasenos	Šalys ir teritorijos
+Akmens anglis	Daugiausia yra Kazachstane, Sibire, Kuznecko ir Minusinsko baseinuose, Kinijos rytuose, Indokinijos rytuose, Vid. Azijoje, Kansko-Ačinsko baseine, Tol. Rytuose, Vietname, Japonijoje, Sachaline.
+Nafta	Užkaukazėje, V. Sibire, Turkmėnijoje, Mangyšlake, Pakaspijyje, Sachaline, Saudo Arabijoje, Kuveite, Irake, Irane, Kinijoje, Sumatroje, Indijoje, Japonijoje, Borneo
+Gamtinės dujos	Uzbekijoje (Bucharos depresijoje), V. Sibiro žemumoje.
+Geležies rūda	Kazachstane (Kostanajaus sr.), Sibire (prie Angaros ir Ilimo, Aldano skyde), Kinijoje, Šiaurės Korėjoje, Indijoje.
+Mangano, chromo rūda	Kazachstane, Turkijoje, Filipinuose, Irane.
+
+Kavah Idženo sieros kasykla (Indonezija)
+Kitos naudingosios iškasenos:
+
+nikelis – Sibire (ties Norilsku),
+vario rūdos – Kazachstane (Žezkazgane, Kounrade), Japonijoje,
+polimetalai – Vid. Azijoje, Rūdiniame Altajuje, Japonijoje, Kinijoje, Mianmare, Vietname,
+žėrutis – palei Baikalą (Sliudiankos kasyklos),
+boksitas – prie Krasnojarsko, Indijoje, Mianmare,
+alavas – Rytų Sibire, Rytų Azijoje,
+stibis, gyvsidabris – Kinijoje,
+volframas – Mianmare, Tailande, Indonezijoje,
+auksas – pagal Aldano ir Lenos upes, Primorėje, Uzbekijoje, Šiaurės Korėjoje, Japonijoje,
+akmens druska – Sibire, Pakistane, Irake, Pakaspijyje,
+fosforitai – Karatau kalnyne (Kazachstano pietuose),
+deimantai – Jakutijoje, Urale.
+Klimatas
+
+Musoniniai debesys pietų Indijoje (Kerala)
+Kadangi Azija tęsiasi nuo pat Arkties iki pusiaujo, joje driekiasi visos klimato juostos. Didžiojoje Azijos dalyje (ypač, vidutinių platumų juostoje) būdingas žemyninis klimatas su šaltomis žiemomis ir karštomis vasaromis. Čia metinis kritulių kiekis neviršija 300 mm, žiemą atšąla žemiau –40 °C (žemiausia temperatūra (iki –70 °C – Š. pusrutulio šalčio polius) yra buvusi Azijos šiaurės rytuose – Verchojanske ir Oimiakone). Vasarą sušyla iki +40 °C.[8] Labiausiai žemyninis yra Šiaurės rytų Sibiro klimatas; čia absoliučioji temperatūrų amplitudė daugiau kaip 100 °C (Verchojanske 101,7 °C).[5] Vidutinių platumų juostoje žiemą, atšalus sausumai, virš Šiaurės ir Centrinės Azijos susiformuoja aukšto atmosferos slėgio sritis (Azijos anticiklonas) su giedrais, šaltais ir be vėjo orais. Jos centras būna virš Mongolijos. Pačioje šiaurėje vyrauja arktinis klimatas. Poliarinė naktis trunka 110 parų; vidutinė temperatūra žemesnė nei –40 °C; liepos vidutinė temperatūra ne aukštesnė kaip 10 °C, metinis kritulių kiekis 150–300 milimetrų.
+
+
+Sniegas vidurvasary prie Ožogino ežero (Jakutija, Rusija)
+Jūrinis oras iš Atlanto pasiekia Azija jau pavirtęs kontinentiniu, o Ramiojo vandenyno įtaka jaučiama tik Azijos rytiniame pakraštyje. Iš šiaurės kartais patenka arktinis oras; į žemyno gilumą jis neprasiskverbia, nes užstoja lygiagrečių krypties kalnagūbriai.
+
+Pietų ir Pietryčių Azijos klimatas musoninis, žiema sausa; kritulių per vasaros pusmetį iškrinta apie 1000 mm, vidutinė metinė temperatūra iki 20 °C, pavasarį ir rudenį būna taifūnų. Pietvakarių Azijos Viduržemio jūros pakrantėse (Mažojoje Azijoje) klimatas sausas, metinis kritulių kiekis mažiau kaip 250 mm (įdubose mažiau kaip 100 mm), liepos vidutinė temperatūra daugiau kaip 30 °C; žiema šilta, vėjuota, būna dulkių audrų. Vasarą ypač karšta Arabijos pusiasalyje, Levante, Irane, kur oras įkaista >50 °C (aukščiausia užfiksuota temperatūra +54 °C Ahvaze Irane ir Tirat Cvi Izraelyje).[14] Didžiuosiuose Azijos kalnynuose (Himalajai, Tibetas, Karakorumas ir kt.) klimatas šaltas ir sausas, šlaituose, esančiuose priešais drėgnąsias oro mases, gausu kritulių. Ypač gausiai lyja per musoną pietryčių Himalajų papėdėse – Indijos šiaurės rytuose, Čerapundžyje vidutinis metinis kritulių kiekis 11 777 mm (didžiausias Žemėje).[5] Šiauriniuose šlaituose būdingas sausas ir kontrastingas žemyninis klimatas.
+
+Gyvoji gamta
+
+Mongolijos stepės
+
+Antilopės Keoladeo nacionaliniame parke (Indija)
+Didžioji dalis Azijos patenka į holarktinę floristinę ir zoogeografinę sritį. Arabijos pusiasalio pietūs, Indostano, Indokinijos pusiasaliai ir Malajų salynas yra paleotropinėje floristinėje srityje, o Pietų Azijoje išskiriama savita Indijos–Malajų zoogeografinė sritis. Arabijos pietūs yra Etiopijos zoogeografinėje srityje.[8]
+
+Azijoje sutinkamos beveik visos gamtinės sritys. Arkties vandenyno pakrantėje driekiasi tundros juosta, iš pietų juosiama siauros miškatundrės. Toliau pietuose beveik per visą Sibirą (taip pat Mongolijos, Mandžiūrijos pakraščius) driekiasi miškingiausia Azijos sritis – taiga. Toliau į pietus yra miškastepės augalijos zona, ši pereina į bemiškę stepių zoną (kserofitinės žolės ir puskrūmiai). Pagrindinė Azijos stepių juosta vadinama Ponto stepe (Kazachstanas, pietų Sibiras). Azijos vakaruose ir vidurinėje dalyje stepės pereina į pusdykumes ir dykumas. Šios labiausiai paplitusios vidinėse Azijos srityse: Gobio dykuma, Karakumai, Taklamakanas, Kyzylkumai, Dešte Lutas, Dešte Keviras, Tharo dykuma, Sirijos dykuma, Arabijos dykuma. Vidurinės Azijos aukštikalnės yra daugiausia bemiškės, tik jų išoriniai (priešvėjiniai) šlaitai (pvz., Tibeto rytuose, Himalajų pietuose) apaugę daugiausia spygliuočių miškais. Vakarų subtropikuose (Viduržemio jūros pakrančių srityje) būdingi subtropiniai krūmynai ir giraitės (pistacijos, kadagiai, alyvmedžiai, makija ir kt.), o rytuose – musoniniai plačialapių ir mišrieji miškai. Pietryčių Azijoje auga daugiausia drėgnieji visžaliai miškai (ypač Malajų salyne), juose gausu įvairių medžių rūšių. Į šiaurę nuo jų, beveik iki Pietų Kinijos, auga visžaliai miškai. Salose ir pusiasaliuose paplitę lapus metantys musoniniai miškai. Indokinijos pusiasalio sausiausiose vietose auga savanų augalija, pelkėtose jūrų pakrantėse – mangrovės. Kalnuose ryškiai išreikštas vertikalusis zoniškumas.[8]
+
+
+Bambukų miškas Japonijoje
+Dideli Azijos plotai (ypač Rytų ir Pietų Azijoje) sukultūrinti. Iš Azijos kilę ryžiai, sojos, arbatmedžiai, tikrieji ir apelsininiai citrinmedžiai, bananai, kokospalmės, cukranendrės, kviečiai, avižos, miežiai, kanapės, agurkai.[5]
+
+Azijos tundroje gyvena šiauriniai elniai, poliarinės lapės, baltieji kiškiai, lemingai, Arkties jūrų pakrantėse – baltieji lokiai, ruoniai, peri jūriniai paukščiai (alkos, kirai, narai), taigoje veisiasi rudieji lokiai, vilkai, lūšys, elniai, briedžiai, bebrai, barsukai, šernai, erniai, sabalai, peri tetervinai, kurtiniai. Stepėse būdingi vilkai, šakalai, antilopės, švilpikai, starai, dykumose – saigos, gazelės, džeiranai, kulanai, kupranugariai. Tibeto kalnynui ir aplinkiniam masyvams būdingi jakai, Rytų Azijai – tigrai, mangutai, fazanai, Artimiesiems Rytams – vienkupriai kupranugariai. Į pietus nuo Himalajų esančioje Azijos dalyje gyvūnija labai įvairi ir gausi. Gausu beždžionių (gibonų, makakų, orangutanų), yra azijinių dramblių, baltaliemenių tapyrų, raganosių, buivolų, tigrų, įvairių antilopių,[5] vietomis išlikę gepardų, azijinių liūtų. Daug roplių rūšių (pitonai, kobros, driežai, varanai).
+
+Vidaus vandenys
+
+Brahmaputros aukštupys Jarlung Cangpo Tibete
+Daugelis Šiaurės Azijos vandenų priklauso Arkties vandenyno baseinui (~25 % Azijos paviršiaus). Šio baseino upės labai vandeningos, o tinklas tankus. Į Arkties vandenyną teka Jenisejus (su Angara, Žemutine Tunguska), Obė (su Irtyšiumi, Išimu), Lena (su Aldanu, Viliujumi), Indigirka, Kolyma, Jana, Oleniokas). Rytų ir dalis Pietryčių Azijos patenka į Ramiojo vandenyno baseiną (~18 %). Jos taip pat vandeningos, patvinsta per vasaros liūtis (Amūras, Chvangchė, Jangdzė, Mekongas, Sidziangas, Hongha). Pietų, dalis Pietryčių ir Vakarų Azijos upių teka į Indijos vandenyną (baseinas užima 26 % ploto). Daugelis jų būna vandeningos tik dalį metų (Pietų Azijoje – per musoną, Vakarų – po liūčių, tirpstant ledynams), sausrų metu smarkiai nusenka; Pietryčių Azijos upės vandeningos visus metus. Šiam baseinui priklauso Tigras, Eufratas, Indas, Ganga (su Jamuna), Brahmaputra, Iravadis, Salvinas, Godavarė, Narmada, Krišna. Vakarinių Azijos pakraščių upės teka į Atlanto vandenyno baseiną (Kyzylyrmakas, Orontas). Centrinės žemyno dalies upės teka į nenuotakius baseinus. Nenuotakios sritys sudaro daugiau kaip 30 % viso paviršiaus; tai daugiausia Kašgaro, Džungarijos lygumos, Turano žemuma, Gobis, Arabijos pusiasalis. Į Kaspijos jūrą, Aralo ir Balkašo ežerus įteka: Kura (su Araksu), Emba, Amudarja, Syrdarja, Ilis, Tarimas, Ču, Hilmendas. Daugelis šių upių nevandeningos, atskirose atkarpose visai išdžiūsta.
+
+
+Namako druskos ežeras Irane
+Didžiausi Azijos ežerai: Kaspijos jūra, Baikalas, Aralo jūra, Balchašas, Dongtinghu, Isyk Kulis, Urmijos ežeras, Vanas, Mirties jūra, Tonlesapas, Taimyro ežeras, Chanka, Chubsugulas, Kukunoras, Ubsu Nuras, Pojanghu.[8] Kaspijos jūra, Aralo ežeras yra paleogeno ir neogeno jūros likučiai. Baikalas telkšo gilioje tektoninėje įduboje ir yra giliausias pasaulio ežeras ir didžiausias tūriu gėlo vandens telkinys. Daugelis Centrinės Azijos ežerų (Aralas, Kukunoras, Balchašas ir kt.) nenuotakūs, druskingi, išdžiūstantys (dalies jų plotas gerokai sumažėjo dėl vandens panaudos). Mongolijos, Kazachijos, Irano plokščiakalnių nenuotakiose srityse gausu druskingų ežerų ir druskožemių. Aliuvinėse žemumose yra didelių seklių ežerų (Chanka, Dongtinghu, Pojanghu, Tonle Sapas). Gausybė ežerų telkšo arktinėse Sibiro srityse.
+
+Vakarų Sibire ir kitur gausu pelkių (pvz., Vasiuganė). Jų taip pat yra prie didžiųjų Rytų ir Pietryčių Azijos upių, ypač jų deltose (Gangos–Brahmaputros, Iravadžio, Mekongo, Amūro).
+
+Apledėjusios sritys Azijoje užima apie 118 000 km² (arktinės salos, aukščiausios Himalajų, Karakorumo, Pamyro, Tian Šanio kalnų dalys). Didžiausi ledynai: Siačeno, Baltoro, Hisparo (Karakorumas), Fedčenkos (Pamyras). Sniego ribos aukštis Himalajuose 4500–6000 m, Pamyre 4400–5200 m, Kaukaze vidutiniškai 3200 m. Arktinėse salose sniego riba nusileidžia iki jūros lygio.[5] Apie 11 mln. km² užima amžinojo įšalo žemės (praktiškai visas Sibiras, Rusijos Tolimieji Rytai, dalis Mongolijos).
+
+Gyventojai
+
+Naktinio Honkongo reginys
+2018 m. Azijoje gyveno >4,5 mlrd. gyventojų. Tai sudaro ~60 % pasaulio žmonijos. Azijoje yra didžiausios pagal gyventojų skaičių pasaulio valstybės – Kinija (21 % pasaulio gyventojų) ir Indija (16,5 %). Vidutinis gyventojų tankumas – apie 100 žm./km². Žemynas apgyvendintas labai netolygiai – ypač tankiai apgyvendinta Rytų Azija (Didžioji Kinijos lyguma, Korėjos pusiasalis, Japonijos salynas), Pietryčių Azijos pakrančių sritys, upių slėniai ir salos (Java, Lusonas, Mindanao), beveik visa Pietų Azija (ypač Indo–Gangos lyguma). Tankiausiai gyvenamos Azijos teritorijos yra Makao (20 550 žm./km², 2019 m.),[15] Singapūras (7894 žm./km²), Honkongas (6782 žm./km²). Iš didesnių valstybių ir teritorijų tankiausiai gyvenamos yra Bangladešas (1170 žm./km²), Palestina (827 žm./km²), Libanas (672 žm./km²), Taivanas (652 žm./km²). Labai retai gyvenamos arba visai negyvenamos yra Arkties vandenyno pakrantės, didžioji Sibiro dalis (ypač Vidurio Sibiro plokščiakalnis), centrinės Azijos stepės ir kalnynai, Vakarų Azijos dykumos. Rečiausiai gyvenamos šalys: Mongolija (1,9 žm./km²), Kazachstanas (7 žm./km²), Rusija (9 žm./km² – visoje šalyje; Azijai priklausančioje dalyje tankumas dar gerokai mažesnis), Turkmėnistanas (12 žm./km²).
+
+
+Uzbekų tradicinių šokių šventė prie klajoklių jurtos
+2000 m. apie 40 % Azijos gyventojų gyveno miestuose.[5] Urbanizacija Azijos valstybėse auga labai sparčiai. Visiškai urbanizuotos teritorijos yra Honkongas, Makao, Singapūras, Kuveitas, Kataras, iš didesnių šalių labiausiai urbanizuotos yra Japonija (91,6 %, 2018 m.),[16] Jordanija (91 %), Libanas (88,6 %), Jungtiniai Arabų Emyratai (86,5 %), Omanas (84,5 %); mažiausiai urbanizuotos – Šri Lanka (18,5 %), Nepalas (19,7 %), Kambodža (23,4 %), Afganistanas (25,5 %), Tadžikistanas (27,1 %).[16] Daugiau nei 150 Azijos miestų turi daugiau kaip 1 mln. gyventojų (daugiausia Kinijoje ir Indijoje). Dauguma Azijos didmiesčių yra ir tarp didžiausių pasaulio miestų. Didžiausi (įtraukiant aglomeracijas): Tokijas (38,5 mln., 2019 m.), Džakarta (34,3 mln.), Delis (28,1), Manila (25,0), Seulas (24,3), Mumbajus (23,6), Šanchajus (22,1), Gvangdžou (20,1), Pekinas (19,4), Daka (18,5), Osaka (17,1), Karačis (16,9), Bankokas (16,0), Kalkuta (15,2), Teheranas (14,6).[17] Apie 5 mln. Azijos gyventojų gyvena klajokliškai.[5]
+
+
+Musulmonų vaikai Indijoje
+2000 m. Azijos gimstamumo koeficientas (naujagimių skaičius tūkstančiui gyventojų) buvo 24.[5] Didžiausias gimstamumas užfiksuotas Afganistane (38,3), Rytų Timore (33,8), Irake (30,9), Jemene (29,2), mažiausias – Japonijoje (7,8), Taivane ir Pietų Korėjoje (po 8,4), Singapūre (8,5), Katare (9,7).[18] 2012 m. duomenimis didžiausias gyventojų prieaugis buvo Libane (9,73 %), Jordanijoje (3,86 %), Katare (3,58 %), Palestinoje (2,91 %), Jemene (2,72 %), Jungtiniuose Arabų Emyratuose (2,71 %), Bahreine ir Pakistane (po 2,49 %), mažiausias – Sirijoje (-9,73 %), Japonijoje (-0,13 %), Maldyvuose (-0,09 %), Pietų Korėjoje (0,16 %).[19] Azijos šalyse ilgiausia gyvenimo trukmė prognozuojama Japonijoje (84,5 m., 2018 m.), Honkonge (84,1), Singapūre (83,8), Izraelyje ir Pietų Korėjoje (po 82,8), Libane (78,9), trumpiausia – Afganistane (64,5 m.), Jemene (66,1), Mianmare (66,9), Pakistane (67,1), Laose (67,6).[20] Daugiausia imigruojama į Arabų šalis (Bahreiną, Katarą, Omaną, Kuveitą, Jungtinius Arabų Emyratus, Saudo Arabiją), Maldyvus, Honkongą, daugiausia emigruojama iš Sirijos, Libano, Rytų Timoro, Mianmaro, Gruzijos, Bangladešo, Tadžikistano, Palestinos.[21]
+
+
+Badžau tautos kaimas ant vandens. Filipinai
+Etninė sudėtis
+Azija pasižymi labai didele tautine įvairove, daugelis šalių yra daugiatautės, o tautų ribos dažnai nesutampa su valstybių sienomis. Išlikę daug negausių tautų, gyvenančių tradicinį gyvenimo būdą gamtoje. Daugelis didžiųjų tautų dažnai sudarytos iš labai skirtingų kultūrinių grupių, kurias vienija bendra kalba ir/arba religija. Azijoje skiriama daugiau kaip 1000 etninių bendrijų.[5]
+
+
+Jakutė tradiciniais rūbais
+Rytų ir iš dalies Pietryčių bei Pietų Azijoje paplitusios kinų-tibetiečių tautos: kinai, tibetiečiai, mjanmai (birmiečiai), kajinai, nevarai. Pietų Azijoje ir Viduriuose Rytuose gyvena indoeuropiečiai: indai (hindustaniai, pandžabai, marathai, bengalai, orijai, nepalai, gudžaratai, radžasthaniečiai, sindhai ir kt.), persai, tadžikai, kurdai, puštūnai, beludžai ir kt., Sibire – rusai, Užkaukazėje – osetinai, armėnai. Centrinėje ir Vakarų Azijoje indoeuropiečiai daug kur gyvena pramaišiui su tiurkais: turkais, uzbekais, uigūrais, kazachais, turkmėnais, kirgizais, azerbaidžaniečiais, afšarais. Jų taip pat gyvenama Sibire: jakutai, tuviai, chakasai, totoriai, altajiečiai. Didžiąją Pietryčių Azijos gyventojų sudaro austroneziečiai: indoneziečiai (javiečiai, ačehai, sundai, baliečiai, bandžarai, madūriečiai, bugiai), malajai, filipiniečiai (tagalai, visajai ir kt.), Taivano aborigenai. Taip pat Pietryčių Azijoje ir Pietų Kinijoje įsimaišiusios tajų grupės tautos (tajai, laosiečiai, šanai, li, kamai, šujai), austroazijiečiai (vietnamiečiai, khmerai, monai, mundai, khasai), hmongų-mienų grupės tautos (hmongai, miao, jao). Indijos pietuose gyvena dravidai: tamilai, telugai, kanadai, malajaliai, tulai (taip pat brahujai Pakistane). Vakarų Azijoje paplitę semitai-chamitai arabai, žydai, drūzai. Sibiro autochtonai priklauso tungusams (evenkai, evenai, nivchiai), paleosibiriečiams (čiukčiai, koriakai), finougrams (chantai, mansiai) ar kitoms negausioms etnolingvistinėms grupėms (selkupai, ketai, aleutai, inuitai, jukagyrai). Pietų Sibire ir Azijos stepėse gyvena mongolai ir buriatai. Rytų Indonezijoje yra papuasų tautų (Halmaheros gyventojai, Aloro–Pantaro tautos ir kt.).
+
+
+Azijoje didelė kalbų ir rašto sistemų įvairovė. Ženklas kinų, i ir anglų kalbomis. Kiekviena iš šių kalbų užrašyta skirtingu raštu. (Sičangas, Kinija)
+Dalies tautų lingvistinė priklausomybė neaiški. Tarp jų ir tokios didelės tautos kaip japonai, korėjiečiai ir negausūs burušai, andamaniečiai, ainai.
+
+Kalbos
+Svarbiausios Azijos kalbinės grupės yra kinų-tibetiečių, indoeuropiečių, semitų-chamitų, austronezinės ir austroazinės kalbos.[10]. Taip pat paplitusios dravidų, Altajaus kalbos bei prie kitų kalbų grupių nepriskiriamos japonų ir korėjiečių kalbos.
+
+Rytų Azijoje daugiausia vartojamos kinų, japonų, korėjiečių kalbos; Pietryčių Azijoje – indoneziečių, vietnamiečių, tagalų, tajų kalbos; Pietų Azijoje – hindi/urdu, bengalų, tamilų, pandžabų kalbos; Vidurinėje Azijoje – uzbekų, kazachų kalbos; Vakarų Azijoje – arabų, persų, turkų, hebrajų kalbos; Šiaurės Azijoje – rusų kalba.
+
+Kaip kolonijinių laikų paveldas dalyje Azijos valstybių oficialiai arba šnekamuoju lygmeniu tebevartojamos iš Europos kilusios kalbos: anglų kalba (Indijoje, Pakistane, Nepale, Šri Lankoje, Filipinuose, Honkonge, Singapūre), prancūzų kalba (Indokinijoje, Pudučeryje), portugalų kalba (Goa, Rytų Timore, Makao), ispanų kalba (Filipinuose), olandų kalba (Indonezijoje), rusų kalba (Vidurinėje Azijoje, Užkaukazėje).
+
+Religija
+Iš Azijos kilusios visos pasaulio didžiosios religijos. Tikslūs duomenys apie religijų išpažinėjų skaičių Azijoje negalimi, nes Rytų, Pietų, Pietryčių Azijoje labai paplitęs religinis sinkretizmas.
+
+
+Budistinių stūpų kompleksas Bagane (Mianmaras)
+Vakarų ir Vidurio Azijoje bei Malajų salyne labiausiai paplitęs islamas (kilęs iš Arabijos pusiasalio). Dauguma Azijos musulmonų yra sunitai, tačiau Irane, Azerbaidžane, Bahreine ir Irake vyrauja šiitai. Levante ir Anatolijoje yra nuo kanoninio islamo nutolusių religinių grupių – drūzų, alavitų, alevitų. Didžiausia musulmonų dalis yra Maldyvuose (100 %), Afganistane (99,6 %), Irane (99,4 %), Jemene (99,1 %), Turkijoje (98,6–99,8 %), Palestinoje (97,5 %), Jordanijoje (97,2 %), Saudo Arabijoje (97,1 %). Indonezija, Pakistanas ir Indija yra didžiausios pasaulyje šalys pagal musulmonų skaičių. Islamas Azijoje sparčiausiai plito IX–XIV a., per šilko kelią, prekybinius ryšius bei užkariavimus. Azijoje yra svarbiausi islamo centrai – Meka, Medina, Jeruzalė.
+
+Rytų ir vietomis Pietryčių Azijoje paplitęs budizmas, kilęs iš Indijos. Šri Lankoje, Tailande, Mianmare, Kambodžoje, Laose paplitęs theravados budizmas, o Kinijoje, Korėjoje, Japonijoje – mahajana. Tibete ir Himalajų priekalnėse susiklostė savitas Tibeto budizmas (vadžrajana), vėliau pasiekęs Mongoliją, Buriatiją, Tuvą. Labiausiai budistinės šalys yra Kambodža (96,9 %), Tailandas (93,2 %), Mianmaras (80,1 %), Butanas (74,7 %), Šri Lanka (69,3 %), Laosas (66,1 %), Mongolija (55,1 %), didžiausios budistų populiacijos gyvena Kinijoje, Tailande, Japonijoje.[22] Svarbiausi budizmo centrai yra Indijoje, Nepale, Tibete (Bodhgaja, Lumbinis, Lasa, Dharamsala).
+
+
+Šeicho Lotfalos mečetė (Isfahanas, Iranas
+Hinduizmas yra skėtinė sąvoka, kuria aprėpiamos tradicinės indų tikybos. Be pačios Indijos (79,8 % gyventojų hinduistai) hinduizmas dar paplitęs Nepale (81,3 %), dėl imigrantų bendruomenių – Butane (22,6 %), Katare (13,8 %), Kuveite (12 %), kitose Persijos įlankos šalyse, Singapūre. Indijoje taip pat susidarė džainizmas (0,37 % gyventojų Indijoje) ir sikhizmas (tarp pandžabų, 1,72 % Indijos gyventojų).[23]
+
+Levante paplitusi žydų religija judaizmas (74,2 % Izraelio gyventojų). Irane ikiislaminiais laikais buvo paplitęs zoroastrizmas. Vėliau kraštas buvo islamizuotas ir išliko negausios zoroastrų bendruomenės Irane, Indijoje (parsiai), Pakistane. Jam artimos yra kurdų tradicinės religijos (jazidizmas, jarsanizmas).
+
+Kinijoje susiklostė daoizmas, o 136 m. pr. m. e. oficialia religija buvo paskelbtas konfucianizmas (X–XIII a. susiformavo neokonfucianizmas). Daugelis šių religijų bei budizmo bruožai šalyje persipynė į sinkretinį tikėjimą, kuris dar vadinamas „kinų liaudies religija“. Japonijoje taip pat sinkretiškai paplitusi tradicinė religija šintoizmas.
+
+
+Hinduistinė arti ceremonija (Varanasis, Indija)
+Krikščionybė kilo iš Palestinos, bet savo pirminio paplitimo srityse išliko daugiausia negausiomis bendruomenėmis Libane (38–41 %), Sirijoje (10 %), Jordanijoje (6 %), Palestinoje (1–2,5 %), Irake (3 %). Dėl karinių konfliktų, radikalaus islamo šios krikščionių bendruomenės sparčiai mažėja. Armėnija yra seniausia valstybė, kurioje krikščionybė tapo valstybine religija (98,5 % gyventojų krikščionys). Vėliau krikščionybę po Aziją platino misionieriai. Dabar 85 % Filipinų, 27,6 % Pietų Korėjos, 18 % Singapūro, 11,8 % Honkongo, 10 % Indonezijos, 9,2 % Malaizijos, 8,2 % Vietnamo, 6,2 % Mianmaro gyventojų yra krikščionys. Skaitlinga krikščionių bendruomenė gyvena Indijoje (ypač Keraloje). Dauguma Šiaurės Azijos gyventojų taip pat krikščionys. Senosios krikščionių bendruomenės yra Rytų apeigų ortodoksai, Rusijoje, Užkaukazėje ir Vidurinėje Azijoje – stačiatikiai, Indijoje, Filipinuose – katalikai, Indonezijoje, šiaurės rytų Indijoje, kitur Pietryčių Azijoje – įvairios protestantų atšakos (daugiausia pastarųjų dešimtmečių konvertitai).
+
+
+Mongolijos šamanai
+Tarp Sibiro tautų, mongolų vietomis praktikuojamas šamanizmas, Tibete – bonas, savo tradicines religijas išlaikiusios įvairios Pietryčių Azijos, Indijos, Himalajų, Indonezijos tautos.
+
+Japonijoje, Korėjoje paplitę naujieji religiniai judėjimai, XIX a. Irane kilo bahaizmas (didesnės bendruomenės Indijoje, Izraelyje). Šiaurės Korėjoje oficiali doktrina yra ateizmas, religinė raiška ribojama ir Kinijoje.
+
+Apskritai, vieno tyrimo duomenimis – Azijos gyventojai vieni religingiausių pasaulyje (ypač Bangladeše, Jemene, Šri Lankoje, Afganistane, Filipinuose, Katare, Bahreine), nors Rytų Azijos šalys (Japonija, Honkongas, Vietnamas, Pietų Korėja) – tarp mažiausiai religingų.[24]
+
+Šalys ir regionai
+Azija skirstoma į Šiaurės, Vidurio, Pietvakarių, Pietų, Rytų ir Pietryčių regionus. Seniau tradicinis Azijos skirstymas buvo į Artimuosius Rytus, Vidurinius Rytus, Tolimuosius Rytus ir Indiją (plačiąja prasme).
+
+Kai kurių šalių (Rusija, Egiptas, Turkija) tik dalis priklauso Azijai, o Kipras savo kultūra artimesnis Europai. Gruzija, Armėnija ir Azerbaidžanas yra paminėti, bet galėtų būti laikomos Europos šalimis.
+
+Herbas	Vėliava	Valstybė	Gyventojų
+(2021)	Plotas
+(km²)	Sostinė
+Afganistanas	Afganistanas	Afganistanas	40 099 462	652 864	Kabulas
+Armėnija	Armėnija	Armėnija[a]	2 790 974	29 743	Jerevanas
+Azerbaidžanas	Azerbaidžanas	Azerbaidžanas[b]	10 312 992	86 600	Baku
+Bahreinas	Bahreinas	Bahreinas	1 463 265	760	Menama
+Bangladešas	Bangladešas	Bangladešas	169 356 251	147 570	Daka
+Brunėjus	Brunėjus	Brunėjus	445 373	5 765	Bandar Seri Begavanas
+Butanas	Butanas	Butanas	777 486	38 394	Timpu
+Egiptas	Egiptas	Egiptas[c]	109 262 178	1 001 449	Kairas
+Filipinai	Filipinai	Filipinai	113 880 328	343 448	Manila
+Gruzija	Gruzija	Gruzija[d]	3 757 980	69 700	Tbilisis
+Indija	Indija	Indija	1 407 563 842	3 287 263	Naujasis Delis
+Indonezija	Indonezija	Indonezija	273 753 191	1 904 569	Džakarta
+Irakas	Irakas	Irakas	43 533 592	438 317	Bagdadas
+Iranas	Iranas	Iranas	87 923 432	1 648 195	Teheranas
+Izraelis	Izraelis	Izraelis	8 900 059	20 770	Jeruzalė (ginčijama)
+Japonija	Japonija	Japonija	124 612 530	377 915	Tokijas
+Jemenas	Jemenas	Jemenas	32 981 641	527 968	Sana
+Jordanija	Jordanija	Jordanija	11 148 278	89 342	Amanas
+Jungtiniai Arabų Emyratai	Jungtiniai Arabų Emyratai	Jungtiniai Arabų Emyratai	9 365 145	83 600	Abu Dabis
+Kambodža	Kambodža	Kambodža	16 589 023	181 035	Pnompenis
+Kataras	Kataras	Kataras	2 688 235	11 586	Doha
+Kazachstanas	Kazachstanas	Kazachstanas[e]	19 196 465	2 724 900	Astana
+Kipras	Kipras	Kipras[f]	1 244 188	9 251	Nikosija
+Kirgizija	Kirgizija	Kirgizija	6 527 743	199 951	Biškekas
+Kinijos LR	Kinijos LR	Kinija	1 425 893 465	9 596 961	Pekinas
+Kuveitas	Kuveitas	Kuveitas	4 250 114	17 818	Kuveitas
+Laosas	Laosas	Laosas	7 425 057	236,800	Vientianas
+Libanas	Libanas	Libanas	5 592 631	10 400	Beirutas
+Malaizija	Malaizija	Malaizija	33 573 874	329 847	Kvala Lumpūras
+Maldyvai	Maldyvai	Maldyvai	521 457	298	Malė
+Mianmaras	Mianmaras	Mianmaras	53 798 084	676 578	Neipidas
+Mongolija	Mongolija	Mongolija	3 347 782	1 564 116	Ulan Batoras
+Nepalas	Nepalas	Nepalas	30 034 989	147 181	Katmandu
+Omanas	Omanas	Omanas	4 520 471	309 500	Maskatas
+Pakistanas	Pakistanas	Pakistanas	211 103 000	881 913	Islamabadas
+Palestinos valstybė	Palestinos valstybė	Palestina	5 133 392	6 220	Jeruzalė (paskelbta)
+Ramala (faktinė)
+Pietų Korėja	Pietų Korėja	Pietų Korėja	51 830 139	100 210	Seulas
+Rytų Timoras	Rytų Timoras	Rytų Timoras	1 320 942	14 874	Dilis
+Rusija	Rusija	Rusija[g]	145 102 755	17 098 242	Maskva
+Saudo Arabija	Saudo Arabija	Saudo Arabija	35 950 396	2 149 690	Rijadas
+Singapūras	Singapūras	Singapūras	5 941 060	697	Singapūras
+Sirija	Sirija	Sirija	21 324 367	185 180	Damaskas
+Šiaurės Korėja	Šiaurės Korėja	Šiaurės Korėja	25 971 909	120 538	Pchenjanas
+Šri Lanka	Šri Lanka	Šri Lanka	21 773 441	65 610	Šri Džajavardenapura
+Tadžikija	Tadžikija	Tadžikija	9 750 064	143 100	Dušanbė
+Tailandas	Tailandas	Tailandas	71 601 103	513 120	Bankokas
+Taivanas	Taivanas	Taivanas	23 859 912	36 193	Taipėjus
+Turkija	Turkija	Turkija[h]	84 775 404	783 562	Ankara
+Turkmėnija	Turkmėnija	Turkmėnija	6 341 855	488 100	Ašchabadas
+Uzbekija	Uzbekija	Uzbekija	34 081 449	447 400	Taškentas
+Vietnamas	Vietnamas	Vietnamas	97 468 029	331 212	Hanojus
+Kartu su aukščiau minėtomis valstybėmis yra keletas de facto nepriklausomų šalių, kurių tarptautinis pripažinimas yra ribotas. Nė viena iš jų nėra JT narė:
+
+Herbas	Vėliava	Regionas	Gyventojų
+(2021)	Plotas
+(km²)	Sostinė
+Abchazija	Abchazija	Abchazija	242 862	8 660	Suchumis
+Kalnų Karabacho Respublika	Kalnų Karabacho Respublika	Kalnų Karabachas	146 573	11 458	Stepanakertas
+Pietų Osetija	Pietų Osetija	Pietų Osetija	51 547	3 900	Cchinvalis
+Šiaurės Kipras	Šiaurės Kipras	Šiaurės Kipras	326 000	3 355	Šiaurės Nikosija
+Pastabos
+ Armėnija gali būti laikoma Rytų Europos arba Vakarų Azijos dalimi.
+ Azerbaidžanas gali būti laikomas Rytų Europos arba Vakarų Azijos dalimi.
+ Egiptas – tarpžemyninė valstybė Šiaurės Afrikoje ir Vakarų Azijoje (Sinajaus pusiasalyje).
+ Gruzija gali būti laikoma Rytų Europos arba Vakarų Azijos dalimi.
+ Kazachstanas – tarpžemyninė valstybė Vidurinėje Azijoje ir Rytų Europoje.
+ Kipras gali būti laikomas Pietų Europos arba Vakarų Azijos dalimi.
+ Rusija – tarpžemyninė valstybė Rytų Europoje ir Šiaurės Azijoje.
+ Turkija – tarpžemyninė valstybė Vakarų Azijoje ir Pietryčių Europoje.
+Šaltiniai
+ National Geographic Family Reference Atlas of the World. Washington, DC: National Geographic Society (U.S.). 2006. p. 264.
+ „World Population prospects – Population division“. United Nations. Suarchyvuotas originalas 2019-02-05. Nuoroda tikrinta 2019-07-16.
+ „Overall total population“. United Nations. Suarchyvuotas originalas (xlsx) 2021-02-27. Nuoroda tikrinta 2019-07-16.
+ „IMF (WEO October 2019 Edition) GDP nominal per capita – international dollar“.
+ Azija. Visuotinė lietuvių enciklopedija, T. II (Arktis-Beketas). – Vilnius: Mokslo ir enciklopedijų leidybos institutas, 2002
+ Asia, Encyclopædia Britannica.
+ Bossert, Helmut T., Asia, Istanbul, 1946.
+ Географический энциклопедический словарь, гл. редактор А. Ф. Трёшников. – Москва, Советская энциклопедия, 1983. // psl. 15
+ National Geographic Family Reference Atlas of the World. Washington, DC: National Geographic Society (U.S.). 2006. p. 264.
+ Asia. In: Britannica Concise Encyclopedia, 2006. ISBN 978-1-59339-492-9
+ Маркус С. Центр Азии // Тува: словарь культуры. – М.: Академический проект, 2006. – С. 745.
+ [Travel Guide [Xinjiang] Geographic Center of Asian Continent] Archyvuota kopija 2016-03-03 iš Wayback Machine projekto., Bbs.chinadaily.com.cn.
+ Guinness Book of World Records, 1991. By Donald McFarlan, Norris McWhirter
+ Hottest Reliably Measured Air Temperatures on Earth
+ [1]
+ CIA factbook Archyvuota kopija 2020-01-06 iš Wayback Machine projekto.
+ Demographia, 2019
+ CIA factbook Archyvuota kopija 2013-03-09 iš Wayback Machine projekto.
+ CIA factbook Archyvuota kopija 2016-05-27 iš Wayback Machine projekto.
+ United Nations Development Programme Archyvuota kopija 2020-05-23 iš Wayback Machine projekto.
+ CIA factbook Archyvuota kopija 2018-12-26 iš Wayback Machine projekto.
+ [2]
+ Indijos gyventojų surašymas 2011 m.
+ Religiosity Highest in World’s Poorest Nations
+Nuorodos
+	
+Vikiteka: Azija – vaizdinė ir garsinė medžiaga
+Aukščiausios Azijos kalnų viršūnės
+Azijos istorija
+	Šis straipsnis įtrauktas į Vertingų straipsnių kategoriją.
+[slėpti]Ž • A • RŽemynai
+Pasaulio žemynai	
+Afrika | Antarktida | Australija | Azija | Europa | Pietų Amerika | Šiaurės Amerika
+
+Ramiojo vandenyno salos (Okeanija) nepriklauso jokiam žemynui
+
+
+Mikrožemynai	
+Madagaskaras | Zelandija
+
+Istoriniai superžemynai	
+Gondvana | Laurazija | Pangėja | Panotija | Rodinija
+
+Mitiniai žemynai	
+Atlantida | Pietų Žemė
+
+Kategorijos: Vertingi straipsniaiAzija
+Šis puslapis paskutinį kartą keistas 6 sausio 2025 04:56.
+Tekstas pateikiamas pagal Creative Commons Attribution/Share-Alike Licenciją; gali būti taikomos papildomos sąlygos. Detaliau – Terms of Use .
+Privatumo politikaApie VikipedijąJokių garantijųElgesio kodeksasKūrėjaiStatistikaSlapukų politikaMobili peržiūra
+Wikimedia Foundation
+Powered by MediaWiki
+
+Azija
+
+305 kalbų
+Pridėti temą
